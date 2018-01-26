@@ -1,0 +1,58 @@
+/*
+Colors to use:
+dark blue: #06365f
+light blue: #1c5380
+*/
+
+html {
+  background: #1c5380;
+}
+
+body {
+  font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0;
+}
+
+h2 {
+  width: 35%
+}
+
+p {
+  width: 35%
+}
+
+.base {
+  position: relative;
+  background: white;
+  top: 300px;
+}
+
+.phones {
+  position: absolute;
+  top: -200px;
+  left: 180px;
+}
+
+.brand {
+  position: absolute;
+  top: -200px;
+  right: 380px;
+}
+
+.home {
+  position: absolute;
+  top: -180px;
+  right: 250px;
+}
+
+.side {
+  position: relative;
+  top: -100px;
+  left: 580px;
+}
+
+.side1 {
+  position: absolute;
+  top: 10px;
+  left: 40px;
+}
